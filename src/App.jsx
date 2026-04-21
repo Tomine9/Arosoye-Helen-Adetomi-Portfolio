@@ -5,7 +5,7 @@ const projects = [
   {
     title: "AI Lead Generation Web App",
     description: "Automates lead generation using AI workflows.",
-    link: "https://res.cloudinary.com/dgzdv7gve/video/upload/v1776727068/Screen_Recording_20260226_084906_2_ohbczx.mp4ing_20260226_084906_2_ohbczx.mp4",
+    link: "https://res.cloudinary.com/dgzdv7gve/video/upload/v1776727068/Screen_Recording_20260226_084906_2_ohbczx.mp4",
   },
   {
     title: "Football News Aggregation Agent",
@@ -20,7 +20,7 @@ const projects = [
   {
     title: "Whatsapp Order Automation",
     description: "AI assistant that improves order accuracy.",
-    link: "https://res.cloudinary.com/dgzdv7gve/video/upload/v1776731332/VID_20250918_174455_4_gpo0he.mp4o0he/mp4",
+    link: "https://res.cloudinary.com/dgzdv7gve/video/upload/v1776731332/VID_20250918_174455_4_gpo0he.mp4",
   }
 ];
 
